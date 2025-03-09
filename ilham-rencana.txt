@@ -4,3 +4,5 @@ Ilham untuk rencana kedepannya
 - Belajar rajin
 - Membuat projek yang sangant bagus
 - Meningkatkan fundamental IT 
+  ^ Belajar PHP
+  ^ Belajar Framework
