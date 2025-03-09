@@ -4,3 +4,6 @@ Ilham untuk rencana kedepannya
 - Belajar rajin
 - Membuat projek yang sangant bagus
 - Meningkatkan fundamental IT 
+  ^ JavaScript (ALL) -> DOM,LANJUTAN untuk frontend
+  ^ Tailwind
+  ^ CSS Ass
