@@ -7,3 +7,5 @@ Ilham untuk rencana kedepannya
   ^ JavaScript (ALL) -> DOM,LANJUTAN untuk frontend
   ^ Tailwind
   ^ CSS Ass
+  ^ Belajar PHP
+  ^ Framework (laravel, Node.js)
